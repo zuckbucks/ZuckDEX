@@ -1,6 +1,8 @@
 # ZuckDex
 
-Welcome Zuck Bucks DEX team. Please sign your github username in a pull request to this document.
+Welcome Zuck Bucks DEX team. Please fill out your info in a pull request to this document.
 
-## USERNAME:
-- [YOUR_USER_HERE]
+## YOUR INFO:
+- [YOUR USER HERE]
+- [BACKEND/FRONTEND]
+- [RELEVANT EXPERIENCE]
